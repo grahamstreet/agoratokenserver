@@ -1,0 +1,18 @@
+#video-streams{
+    height: 90vh;
+    width: 1400px;
+}
+
+.video-container{
+    height: 100%;
+    border: 2px solid black;
+}
+
+.video-player{
+    height: 50%;
+    width: 50%;
+}
+
+#stream-controls{
+    display:none;
+}
